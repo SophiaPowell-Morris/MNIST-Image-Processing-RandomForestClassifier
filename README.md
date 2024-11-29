@@ -12,4 +12,4 @@ A tuning parameter was picked, and a unique values was picked to be used on the 
 
 The confusion matrix  of the testing set was generated using the Random Forest model.
 
-The class the model struggled with most was deduced and the accuracy, precision, recall and f1 scores were computed and interpreted. 
+The class the model struggled with most was deduced and the accuracy, precision, recall and f1 scores were computed. 
